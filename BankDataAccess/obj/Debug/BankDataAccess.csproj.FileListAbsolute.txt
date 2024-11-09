@@ -1,0 +1,8 @@
+E:\Mohammed Abu-Hadhoud\Course (18) - C# & Database Connectivity\BankDataAccess\bin\Debug\BankDataAccess.dll
+E:\Mohammed Abu-Hadhoud\Course (18) - C# & Database Connectivity\BankDataAccess\bin\Debug\BankDataAccess.pdb
+E:\Mohammed Abu-Hadhoud\Course (18) - C# & Database Connectivity\BankDataAccess\obj\Debug\BankDataAccess.csproj.CoreCompileInputs.cache
+E:\Mohammed Abu-Hadhoud\Course (18) - C# & Database Connectivity\BankDataAccess\obj\Debug\BankDataAccess.dll
+E:\Mohammed Abu-Hadhoud\Course (18) - C# & Database Connectivity\BankDataAccess\obj\Debug\BankDataAccess.pdb
+E:\Mohammed Abu-Hadhoud\Course (18) - C# & Database Connectivity\BankDataAccess\bin\Debug\Guna.UI2.dll
+E:\Mohammed Abu-Hadhoud\Course (18) - C# & Database Connectivity\BankDataAccess\obj\Debug\BankDataAccess.csproj.CopyComplete
+E:\Mohammed Abu-Hadhoud\Course (18) - C# & Database Connectivity\BankDataAccess\obj\Debug\BankDataAccess.csproj.AssemblyReference.cache
